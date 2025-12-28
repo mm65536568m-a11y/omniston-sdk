@@ -1,4 +1,4 @@
-# Omniston SDK
+# Omniston SDK ٥٦٥٦
 
 [![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/)
 [![License](https://img.shields.io/npm/l/@ston-fi/omniston-sdk)](https://img.shields.io/npm/l/@ston-fi/omniston-sdk)
